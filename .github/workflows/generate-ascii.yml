@@ -13,4 +13,4 @@ jobs:
             - name: Execute Shell Command
               run: |
                 chmod +x ascii-script.sh   
-                ./ascii-script.sh
+                .Arjhunt/Actions-1/.github/workflows/ascii-script.sh
