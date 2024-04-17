@@ -11,4 +11,4 @@ jobs:
               run: ls -ltra
               
             - name: Execute Shell Command
-              run: ./aascii.sh
+              run: ./ascii.sh
